@@ -1,0 +1,94 @@
+
+body {
+    background: rgba(42, 38, 61, 0.82);
+    background-repeat: no-repeat;
+}
+
+.background {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    height: auto;
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+  
+.logo {
+    position: absolute;
+    z-index: 2;
+    height: 100px;
+    width: 100px;
+    display: block;
+    top: 120px;
+    right: 650px;
+}
+    
+h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Pacifico;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+	top: 200px;
+    left: 500px;
+	z-index: 2;
+}
+
+h2 {
+    color: #FCB371;
+    font-family: Pacifico;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+	top: 270px;
+    left: 500px;
+	z-index: 2;
+}
+
+h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: "SF Pro Display";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: 440px;
+    left: 600px;
+	z-index: 2;
+}
+
+button {
+    font-family: Pacifico;
+    cursor: pointer;
+    width: 156px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 2px solid #FCB371;
+    position: absolute;
+}
+
+.kiri {
+    position: absolute;
+    right: 690px;
+    bottom: 20px;
+    filter: alpha(opacity=40);
+    background-color: transparent;
+    color:#FCB371
+}
+
+.kanan {
+    position: absolute;
+    right: 530px;
+    bottom: 20px;
+    background-color: #FCB371;
+    color: #FFF;
+}

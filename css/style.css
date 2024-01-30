@@ -1,0 +1,42 @@
+h3 {
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+p {
+    background-color: yellow;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+/* komen css digunakan untuk mejelaskan sintak kode css kepada programmer
+komen multi ini deskripsi penjelasan nya panjang*/
+
+/* Secara sederhana, website responsive adalah sebutan untuk website yang 
+dapat menyesuaikan layout pada tampilan dengan setiap 
+device menggunakan ukuran berbeda ketika mengaksesnya.
+Lebih lengkapnya, website responsive adalah teknik 
+atau metode bagi pengembang website, untuk membuat layout website 
+dapat menyesuaikan dengan berbagai device yang memiliki ukuran layar berbeda-beda. */
+
+/* Media query CSS adalah teknik dalam web development
+ untuk membuat tampilan website yang responsif di berbagai jenis layar dan perangkat, 
+baik itu ponsel, tablet, maupun desktop. */
+
+/* Flexbox: Memberikan kontrol yang baik untuk mengatur elemen dalam satu dimensi dan sangat fleksibel dalam menyesuaikan elemen terhadap ruang yang tersedia. CSS Grid: Menawarkan kontrol 
+penuh atas baris dan kolom, memungkinkan pengaturan layout yang lebih kompleks dan presisi */
+
+/* Bootstrap adalah salah satu framework CSS yang berfokus pada pengembangan front-end website. Di dalamnya mengandung HTML, CSS, dan JavaScript 
+untuk membuat tampilan website yang modern, responsif, dan mobile-friendly. */
+
+
+
